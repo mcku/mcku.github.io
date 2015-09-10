@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.kodguru.com/</link>
     <atom:link href="http://blog.kodguru.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Sep 2015 14:34:57 +0300</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 14:34:57 +0300</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2015 15:06:34 +0300</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2015 15:06:34 +0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -39,7 +39,18 @@
     
       <item>
         <title>Mendix ile yazılım modellemesi nasıl yapılır</title>
-        <description>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.mendix.com&quot;&gt;Mendix&lt;/a&gt;, 2005 yılından beri varlığını sürdüren bir uygulama geliştirme platformudur. Teknolojinin gelişmesiyle birlikte, hem backend, hem de frontend geliştirme süreçlerini tek ortamda birleştirmeyi başarmış bir platformdur. Son birkaç yıldır Gartner ve Forrester analizlerinde kendine iyi bir yer edinmiştir. Hem prototip geliştirme, hem de test ve production için uygundur. En önemli avantajı, &lt;a href=&quot;http://www.slideshare.net/MattHaney/qsm-mendix-benchmark-report&quot;&gt;QSM&lt;/a&gt; tarafından da ölçülmüş olan, ürün geliştirme sürecini hızlandırmasıdır.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mcku/mcku.github.io/master/resimler/qsm_mendix.png&quot; alt=&quot;Mendix 6 kat hızlı&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aylık abonelik ile kullanılan bir ürün olmasına rağmen, uygulamayı 10 kullanıcıdan az kişinin kullanacağı durumlarda tamamen ücretsizdir. Dolayısıyla Mendix ile ürün prototipleme de rahatlıkla yapılabilir. Unutmadan belirtmek lazım, yazılım modellemesi yaparken kod yazmıyoruz. Kod yazmadan nasıl olabilir derseniz, işin sırrı burada saklı, oldukça güçlü bir modelleme yaklaşımı, kod yazarak yapılabilecek neredeyse her şeyi, program kontrol akışını kastediyorum, detaylı bir şekilde görsel olarak bir tür Lego (R) oluşturma problemine indirgiyor. Ve bu Lego’nun parçaları oldukça detaylı.&lt;/p&gt;
+
+&lt;p&gt;Hollanda firması olan Mendix’in Türkiye’deki temsilciliğini &lt;a href=&quot;http://www.incentro.com&quot;&gt;Incentro&lt;/a&gt; yapmaktadır.&lt;/p&gt;
+
+&lt;p&gt;Mendix ve benzer ürünler, çok değerli bir kaynak olan yazılımcılarımızın finans, sigorta gibi sektörlerde ekran tasarımı yapmak yerine, daha stratejik endüstriyel alanlara kaymasını sağlayacak şekilde kurumsal talebi değiştirme potansiyeli taşıyor.&lt;/p&gt;
+
+&lt;p&gt;Türkiye’de bu tür ürünleri kullanan vizyoner kuruluşlar görmeye başladık.&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 25 Aug 2015 13:28:30 +0300</pubDate>
         <link>http://blog.kodguru.com/mendix/2015/08/25/mendix-ile-yazilim-modellemesi-nasil-yapilir.html</link>
