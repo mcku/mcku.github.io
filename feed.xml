@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.kodguru.com/</link>
     <atom:link href="http://blog.kodguru.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Sep 2015 12:15:41 +0300</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 12:15:41 +0300</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2015 12:59:45 +0300</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2015 12:59:45 +0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Thu, 10 Sep 2015 03:38:42 +0300</pubDate>
-        <link>http://blog.kodguru.com/elasticsearch/bigdata/2015/09/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://blog.kodguru.com/elasticsearch/bigdata/2015/09/10/welcome-to-jekyll.html</guid>
+        <link>http://blog.kodguru.com/elasticsearch/bigdata/2015/09/10/elasticsearch-kosesi.html</link>
+        <guid isPermaLink="true">http://blog.kodguru.com/elasticsearch/bigdata/2015/09/10/elasticsearch-kosesi.html</guid>
         
         
         <category>elasticsearch</category>
