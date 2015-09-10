@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.kodguru.com/</link>
     <atom:link href="http://blog.kodguru.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Sep 2015 15:11:47 +0300</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 15:11:47 +0300</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2015 17:23:02 +0300</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2015 17:23:02 +0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -61,9 +61,9 @@
     
       <item>
         <title>Hızlı uygulama geliştirme</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mcku/mcku.github.io/master/resimler/hizli-yazilim-gelistirin.png&quot; alt=&quot;Yazılımınızı kodlamayın, modelleyin&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Yazılım geliştirmek yerine yazılım modellemek. Büyük kurumlar dev yazılım projeleri yerine modelleme yapacak.&lt;/p&gt;
 
-&lt;h1 id=&quot;yazlm-gelitirmek-yerine-yazlm-modellemek-byk-kurumlar-dev-yazlm-projeleri-yerine-modelleme-yapacak&quot;&gt;Yazılım geliştirmek yerine yazılım modellemek. Büyük kurumlar dev yazılım projeleri yerine modelleme yapacak.&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mcku/mcku.github.io/master/resimler/hizli-yazilim-gelistirin.png&quot; alt=&quot;Yazılımınızı kodlamayın, modelleyin&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Geleneksel yaklaşımda, ihtiyaçlar büyük ve sürekli yoğunluk yaşayan bir IT ekibi tarafından analiz edilip, belli bir öncelik sırasıyla gerçekleştiriliyordu. Yeni çevik yaklaşımda ise, iş kolları, proje geliştiren yazılım ekibiyle sürekli yakın çalışan bir takım üyesi haline geldi. Yine de kod kalitesi sorunu asla çözülemedi, dönem dönem hassas seyredebilen yazılım ekibi psikolojisi, ekip değişiklikleri gibi faktörler proje başarısı karşısında ciddi risk oluşturuyor.&lt;/p&gt;
 
