@@ -2,39 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mustafa C. Kuşçu</title>
-    <description>Big thinker, small starter. Fully independent brain with values. Running after kismet. Outcome: Chaotic progress skills with increasing self motivation.
+    <description>Big thinker, small starter. Fully independent brain with values. Running after kismet. Outcome: Chaotic progress skills with increasing self motivation. Lives physically in Istanbul, Turkey and  virtually in Sunnyvale, CA (c) Copyright Mustafa Kuşçu. All rights reserved.
 </description>
     <link>http://blog.kodguru.com/</link>
     <atom:link href="http://blog.kodguru.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Sep 2015 09:59:56 +0300</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 09:59:56 +0300</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2015 12:15:41 +0300</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2015 12:15:41 +0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Elasticsearch köşesi</title>
+        <description>&lt;p&gt;Bugünlerde, yıllardır beklediğimiz dönüşümün sinyallerini almaya başladık. Birçok kurum, bulutta yaşanan dönüşümün benzerini big data’da yapmaya hazırlanıyor. Böylece inanılmaz bir kapasite artışı gerçekleşecek.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Başta finans, telekom gibi sektörlerde IT stratejilerinin riskten kaçındığı, denenmiş ve oturmuş teknolojileri tercih ettiği bilinen bir gerçek. Tam da bu noktada big data (yazının geri kalanında büyük veri diyeceğim) çözümlerinde önemli bir algı eşiğinin aşıldığını gözlemlemekteyiz. Konvansiyonel 3 katmanlı uygulama yapısının terkine gidecek süreç, aynı zamanda ETL süreçlerinin ve konvansiyonel DWH yaklaşımının yavaş yavaş sonuna geldiği anlamını taşıyor.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Önemli değişimlerin yaşandığı bir dönemdeyiz. Son 20 yıldır, client-server, yani istemci-sunucu şeklinde çalışan web mimarisinin doğal bir sonucu olarak yaygınlaşan, son yıllara kadar ciddi olarak sorgulanmayan 3 katmanlı uygulama mimarisi, artık ölçeklenebilirlik açısından gebe olduğu darboğazlar kaçınılmaz hal aldığından son günlerini yaşıyor. Bugün yapılacak hiçbir IT yatırımı konvansiyonel mimari ile kurgulanmış olmamalıdır. Bugünü bir milat kabul edip, büyük veri mimarisine yönelerek geleceğe yatırım yapma zamanıdır.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;byk-veri-yolculuuna-elastic-ile-balayn&quot;&gt;Büyük veri yolculuğuna Elastic ile başlayın!&lt;/h3&gt;
+&lt;p&gt;Başlangıç için Elastic ile bir deneme yapmanızı öneririm. Elastic, verinin büyüdüğü, büyüme riskini taşıdığı her alanda kullanılabilecek, esnek, açık kaynak ölçeklenebilir bir platform. 2012 yılında ortaya çıkmasına rağmen, geçen üç yılda popülerlik ve kullanım yaygınlığı açısından büyüyerek inanılmaz bir yol katetti. Öyle ki, bugün finans sektöründe &lt;a href=&quot;http://goldmansachs.com&quot;&gt;Goldman Sachs&lt;/a&gt;‘tan tutun &lt;a href=&quot;http://fico.com&quot;&gt;FICO&lt;/a&gt;‘ya, kurumları işgal ettiğini söyleyebileceğimiz, çok yaygın kullanımda.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Elastic sizi heyecanlandırmış olabilir, hemen daha fazla bilgi almak isterseniz &lt;a href=&quot;http://elastic.co&quot;&gt;Elastic sitesini&lt;/a&gt; ziyaret edin.&lt;/p&gt;
+
+&lt;p&gt;Elastic ile ilgili bu köşede yazılarımızı sürdüreceğiz inşallah. Daha fazla bilgi için iletişime geçebilirsiiz.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 10 Sep 2015 03:38:42 +0300</pubDate>
-        <link>http://blog.kodguru.com/jekyll/update/2015/09/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://blog.kodguru.com/jekyll/update/2015/09/10/welcome-to-jekyll.html</guid>
+        <link>http://blog.kodguru.com/elasticsearch/bigdata/2015/09/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://blog.kodguru.com/elasticsearch/bigdata/2015/09/10/welcome-to-jekyll.html</guid>
         
         
-        <category>jekyll</category>
+        <category>elasticsearch</category>
         
-        <category>update</category>
+        <category>bigdata</category>
         
       </item>
     
