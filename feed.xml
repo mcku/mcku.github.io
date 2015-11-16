@@ -6,9 +6,31 @@
 </description>
     <link>http://blog.kodguru.com/</link>
     <atom:link href="http://blog.kodguru.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Sep 2015 17:43:57 +0300</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2015 17:43:57 +0300</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2015 09:11:56 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2015 09:11:56 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Şirketiniz/kuruluşunuzdaki tüm belgeleri anında bulun</title>
+        <description>&lt;p&gt;Tipik bir firmanın kurumsal hafızasını kısaca özetlersek, çalışanlar, organizasyon ve pazarlama dokümanları, kullanılan CRM, ERP sistemlerindeki veriler ve bunların değerlendirildiği raporlardır. Günümüzde ise bunların yanına, henüz dokümanlaşamadan akıp giden akan veriler, sosyal medya, hukuki içerikler, kurumsal yazışmalar gibi birçok boyut eklenmekte. Öte yandan yasal düzenlemeler sürekli değişirken yeni gereksinimler ortaya konmakta. Teknolojik gelişmeler ve verinin işlendiği ortamlar ise büyük veri olarak adlandırdığımız geniş kapsamlı, hızlı veri işleme yaklaşımını yapay zeka ile birleştirerek işletmelerin daha akıllı hareket etmesini mümkün kılıyor.&lt;/p&gt;
+
+&lt;p&gt;Biz tüm bu değişim rüzgarlarının ekonomiye nasıl olumlu fayda katmasını sağlayabiliriz perspektifinden hareketle, her bütçeye uygun, lisans maliyetleri olmayan, kotaları ve sınırlamaları olmayan, kolay kurulup kullanılabilen, standart araçlarla şirket içi kurumsal hafıza oluşturmayı sağlayacak çözümler geliştirmeye karar verdik.&lt;/p&gt;
+
+&lt;p&gt;Hatta ilk çözümümüzü burada sizlerle buluşturmak isterim. İsmi belli, marka işlemlerini tamamlar tamamlamaz burada paylaşacağız. Oldukça yüksek performanslı bir arama motorunu içinde barındırıyor. Mail, web, cep telefonu, excel dosyalar, word dokümanlar, PDF’ler, ne var ne yok içine atıp, tüm bu veriler üzerinde arama yaparak istediğiniz verileri elde edebiliyorsunuz. Ve tüm bunlar kurumunuza özel, kendi sunucu odanızda, güvenle çalıştırabiliyorsunuz. Dilerseniz bulutta da çalışıyor. Mimari olarak big data mimarisinde olduğundan, ölçek sorunu yok.&lt;/p&gt;
+
+&lt;p&gt;Şu an beta çalışmalarını bizimle yürütecek, dolayısıyla bizim de kendilerine değer katacağımız, işbirliği yapacağımız, teknolojik iştahı olan erken safha müşteriler arayışındayız.&lt;/p&gt;
+
+&lt;p&gt;mustafa.kuscu@re-con.org veya @mustafa_kuscu üzerinden iletişime geçebilirsiniz.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Nov 2015 12:15:00 +0200</pubDate>
+        <link>http://blog.kodguru.com/yazilim/2015/11/01/sirketinizdeki-tum-belgeleri-aninda-bulun.html</link>
+        <guid isPermaLink="true">http://blog.kodguru.com/yazilim/2015/11/01/sirketinizdeki-tum-belgeleri-aninda-bulun.html</guid>
+        
+        
+        <category>yazilim</category>
+        
+      </item>
     
       <item>
         <title>Elasticsearch&#39;e hızlı başlangıç</title>
