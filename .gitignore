@@ -5,3 +5,4 @@ _site/
 vendor/
 GEMINI.md
 degerlendirme.md
+.env
