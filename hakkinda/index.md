@@ -2,6 +2,7 @@
 title: Hakkında
 layout: default
 ---
+
 Bilgi, mutluluk gibi, paylaşıldıkça büyür. Öbür dünyaya servetimizi götüremediğimiz gibi, bilgimizi de
 götüremeyeceğiz. Bize düşen, bilgimizi paylaşmak, sonraki nesillerin gelişimine katkıda bulunmak olmalıdır.
 Bizi yetiştiren ailemize, topluma, ülkemize, aynı zamanda insanlığa borcumuzu bu şekilde ödeyebiliriz.
