@@ -5,7 +5,6 @@ date: 2021-03-01 12:00:00 +0300
 categories: [E-Farm, Cloud, Infrastructure, Scalability]
 ---
 
-# E-Farm İçin Teknoloji Önerisi: Modern Altyapı Seçimleri
 
 Tarım sektörü, dijitalleşme ve teknolojik yeniliklerle birlikte "e-farm" veya "akıllı tarım" kavramlarıyla dönüşüm geçirmektedir. E-farm platformları, üreticileri tüketicilerle doğrudan buluşturarak, tedarik zincirini optimize ederek, verimliliği artırarak ve gıda israfını azaltarak önemli faydalar sunar. Bu tür platformların başarılı olması için sağlam, ölçeklenebilir, güvenli ve modern bir teknolojik altyapıya ihtiyaç vardır. Bu makalede, e-farm platformları için bulut tabanlı altyapı (AWS, GCP), veri tabanı seçimi, API tasarımı ve ölçeklenebilirlik çözümlerini detaylandıracağız.
 

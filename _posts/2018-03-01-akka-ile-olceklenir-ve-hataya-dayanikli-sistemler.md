@@ -5,7 +5,6 @@ date: 2018-03-01 12:00:00 +0300
 categories: [Akka, Distributed Systems, Scalability]
 ---
 
-# Akka ile Ölçeklenir ve Hataya Dayanıklı Sistemler
 
 Modern yazılım uygulamaları, giderek artan kullanıcı sayıları, veri hacimleri ve karmaşık iş mantıklarıyla başa çıkmak zorundadır. Bu durum, sistemlerin yüksek oranda ölçeklenebilir, hataya dayanıklı ve reaktif olmasını gerektirir. Geleneksel eşzamanlılık modelleri bu gereksinimleri karşılamakta zorlanırken, aktör modeli (Actor Model) dağıtık sistemler için güçlü bir çözüm sunar. Scala ekosisteminde, Akka framework'ü, aktör modelini temel alarak ölçeklenebilir ve hataya dayanıklı sistemler inşa etmeyi kolaylaştırır. Bu makalede, Akka aktör modelinin dağıtık sistemlerdeki rolünü, hata toleransı mekanizmalarını, mesajlaşma prensiplerini ve ölçeklenebilirlik için Akka kullanımını detaylandıracağız.
 

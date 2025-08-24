@@ -5,7 +5,6 @@ date: 2018-07-01 12:00:00 +0300
 categories: [Docker, DevOps, Containerization]
 ---
 
-# Docker ve Docker Compose ile Geliştirme Ortamları
 
 Modern yazılım geliştirme süreçlerinde, uygulamaların farklı ortamlarda (geliştirme, test, üretim) tutarlı bir şekilde çalışmasını sağlamak büyük bir zorluktur. "Benim makinemde çalışıyor" sendromu, geliştiricilerin ve operasyon ekiplerinin karşılaştığı yaygın bir sorundur. Docker ve Docker Compose, bu sorunu çözmek için konteynerizasyon teknolojisini kullanarak taşınabilir, izole ve tutarlı geliştirme ortamları oluşturmayı sağlar. Bu makalede, Docker konteynerizasyonunun temellerini, Docker Compose ile çoklu servis uygulamalarını yönetmeyi ve bu araçların geliştirme süreçlerine nasıl entegre edildiğini detaylandıracağız.
 

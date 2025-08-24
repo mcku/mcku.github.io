@@ -5,7 +5,6 @@ date: 2017-07-01 12:00:00 +0300
 categories: [Health Tech, Security, Web Applications]
 ---
 
-# Sağlık Verilerinin Güvenliği ve Web Uygulamaları
 
 Sağlık sektörü, dijitalleşmenin hızlanmasıyla birlikte web tabanlı uygulamaların kullanımını artırmaktadır. Online randevu sistemleri, hasta portalı uygulamaları, tele-tıp platformları ve elektronik sağlık kayıtları (EHR) gibi çözümler, sağlık hizmetlerine erişimi kolaylaştırırken, beraberinde hassas sağlık verilerinin güvenliği ve gizliliği konusunda ciddi zorluklar getirmektedir. Bu makalede, sağlık sektöründe web tabanlı uygulamalarda veri gizliliği (HIPAA, GDPR uyumluluğu), güvenlik protokolleri ve şifreleme yöntemlerini detaylandıracağız.
 

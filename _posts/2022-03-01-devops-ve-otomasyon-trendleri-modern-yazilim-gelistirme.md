@@ -5,7 +5,6 @@ date: 2022-03-01 12:00:00 +0300
 categories: [DevOps, Automation, CI/CD, IaC, Monitoring]
 ---
 
-# DevOps ve Otomasyon Trendleri: Modern Yazılım Geliştirme
 
 Modern yazılım geliştirme süreçleri, hız, güvenilirlik ve ölçeklenebilirlik üzerine kuruludur. Bu hedeflere ulaşmada DevOps kültürü ve otomasyon pratikleri kilit bir rol oynamaktadır. DevOps, geliştirme (Dev) ve operasyon (Ops) ekiplerini bir araya getirerek yazılımın daha hızlı, daha güvenli ve daha sık bir şekilde dağıtılmasını sağlar. Bu makalede, CI/CD boru hatları, altyapı otomasyonu (Infrastructure as Code - IaC), izleme (monitoring) ve loglama (logging) gibi temel DevOps pratiklerini ve güncel otomasyon trendlerini detaylandıracağız.
 

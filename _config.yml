@@ -1,0 +1,33 @@
+title: Mustafa C. Kuşçu
+description: >- # this means to ignore newlines until "baseurl:"
+  Big thinker, small starter. Fully independent brain with values. Running after kismet. Outcome: Chaotic progress skills with increasing self motivation. Lives physically in Istanbul, Turkey. All rights reserved.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://mcku.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: mustafa_kuscu
+github_username: mcku
+linkedin_username: kuscu
+x_username: mcku_eng
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+show_excerpts: true
+permalink: /:categories/:year/:month/:day/:title.html
+paginate: 10
+paginate_path: "/blog/page:num/"

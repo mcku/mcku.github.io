@@ -5,7 +5,6 @@ date: 2018-05-01 12:00:00 +0300
 categories: [Scala.js, Frontend, Full-Stack]
 ---
 
-# Scala.js ile Full-Stack Scala Geliştirme
 
 Modern web uygulamaları, hem sunucu tarafında (backend) hem de istemci tarafında (frontend) karmaşık mantık ve veri işleme gerektirir. Geleneksel olarak, bu iki katman farklı programlama dilleri (örneğin, Java/Scala backend için, JavaScript frontend için) ve framework'lerle geliştirilir. Bu durum, kod tekrarına, tip uyumsuzluklarına ve geliştirme süreçlerinde ek karmaşıklığa yol açabilir. Scala.js, bu sorunu çözmek için Scala kodunu JavaScript'e derleyerek, frontend ve backend'i tek bir dilde geliştirme imkanı sunar. Bu makalede, Scala.js'in ne olduğunu, Scala kodunu JavaScript'e nasıl derlediğini ve full-stack Scala geliştirmenin avantajlarını detaylandıracağız.
 

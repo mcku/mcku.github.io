@@ -5,7 +5,6 @@ date: 2023-11-01 12:00:00 +0300
 categories: [KYC, Flutter, Fintech, Mobile Development]
 ---
 
-# Yerli KYC Kütüphanelerinin Flutter ile Entegrasyonu
 
 Finansal hizmetler, e-ticaret, kripto para platformları ve diğer birçok regüle sektörde "Müşterini Tanı" (Know Your Customer - KYC) süreçleri, yasal uyumluluk ve dolandırıcılığın önlenmesi açısından hayati öneme sahiptir. Geleneksel KYC süreçleri zaman alıcı ve maliyetli olabilirken, dijital KYC çözümleri bu süreçleri hızlandırır ve otomatikleştirir. Özellikle Türkiye gibi yerel regülasyonların ve kimlik doğrulama yöntemlerinin farklılık gösterdiği pazarlarda, yerli KYC kütüphanelerinin mobil uygulamalara entegrasyonu kritik hale gelmektedir. Bu makalede, yerli KYC çözümlerinin Flutter mobil uygulamalarına entegrasyonunu, API kullanımını ve güvenlik hususlarını detaylandıracağız.
 

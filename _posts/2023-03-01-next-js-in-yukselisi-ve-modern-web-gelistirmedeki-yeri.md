@@ -5,7 +5,6 @@ date: 2023-03-01 12:00:00 +0300
 categories: [Next.js, Frontend, Web Development, React]
 ---
 
-# Next.js'in Yükselişi ve Modern Web Geliştirmedeki Yeri
 
 React, modern frontend geliştirmenin temel taşlarından biri haline gelmiş olsa da, tek başına kullanıldığında SEO, performans ve ilk yükleme süresi gibi konularda bazı zorluklar çıkarabilir. İşte bu noktada Next.js devreye girer. Vercel tarafından geliştirilen Next.js, React tabanlı uygulamalar için bir framework olup, sunucu tarafı render (SSR), statik site üretimi (SSG), API rotaları ve daha birçok özellikle React ekosistemini tamamlar. Bu makalede, Next.js'in React ekosistemindeki önemini, temel özelliklerini ve modern web geliştirmedeki yerini detaylandıracağız.
 

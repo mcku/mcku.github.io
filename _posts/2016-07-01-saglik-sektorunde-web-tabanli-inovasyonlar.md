@@ -5,7 +5,6 @@ date: 2016-07-01 12:00:00 +0300
 categories: [Health Tech, Web Applications]
 ---
 
-# Sağlık Sektöründe Web Tabanlı İnovasyonlar
 
 Sağlık sektörü, teknolojinin hızla gelişmesiyle birlikte büyük bir dönüşüm yaşamaktadır. Geleneksel sağlık hizmeti sunum modelleri, web tabanlı çözümlerle desteklenerek veya tamamen dijitalleşerek daha erişilebilir, verimli ve hasta odaklı hale gelmektedir. Tele-tıp, hasta takip sistemleri ve elektronik sağlık kayıtları (EHR) gibi web tabanlı inovasyonlar, sağlık hizmetlerinin geleceğini şekillendirmektedir. Bu makalede, bu web tabanlı çözümlerin sağlık sektörüne etkilerini, temel özelliklerini ve geliştirme yaklaşımlarını detaylandıracağız.
 

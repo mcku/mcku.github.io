@@ -5,7 +5,6 @@ date: 2019-05-01 12:00:00 +0300
 categories: [React, TypeScript, Frontend]
 ---
 
-# React, TypeScript ve JSX: Modern Frontend Geliştirme
 
 Modern web uygulamaları, karmaşık kullanıcı arayüzleri (UI) ve zengin etkileşimler sunarak kullanıcı deneyimini ön planda tutar. Bu tür uygulamaların geliştirilmesinde, React gibi bileşen tabanlı kütüphaneler, TypeScript gibi tip güvenliği sağlayan diller ve JSX gibi sentaktik şekerler kilit bir rol oynamaktadır. Bu makalede, React ile bileşen tabanlı UI geliştirmenin temellerini, TypeScript'in tip güvenliği avantajlarını ve JSX'in kullanımını detaylandırarak modern frontend geliştirme pratiklerini inceleyeceğiz.
 

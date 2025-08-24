@@ -5,7 +5,6 @@ date: 2020-01-01 12:00:00 +0300
 categories: [Pandemic, Software Industry, Remote Work, Digital Transformation]
 ---
 
-# Corona Pandemisi ve Yazılım Sektörüne Etkileri
 
 2020 yılında başlayan COVID-19 pandemisi, dünya genelinde birçok sektörü derinden etkilediği gibi, yazılım sektöründe de kalıcı değişikliklere yol açmıştır. Pandemi, dijitalleşmenin hızlanmasına, uzaktan çalışma modellerinin yaygınlaşmasına ve yeni teknoloji ihtiyaçlarının ortaya çıkmasına neden olmuştur. Bu makalede, Corona pandemisinin yazılım geliştirme süreçleri, uzaktan çalışma modelleri, dijital dönüşüm hızlanması ve yeni teknoloji ihtiyaçları üzerindeki etkilerini detaylandıracağız.
 

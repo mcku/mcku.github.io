@@ -5,7 +5,6 @@ date: 2024-05-01 12:00:00 +0300
 categories: [Go, Fraud Detection, Fintech, Machine Learning]
 ---
 
-# Go ile Sıfırdan Bir Fraud Sistemi Tasarlamak
 
 Finans, e-commerce ve sigorta gibi sektörlerde dolandırıcılık (fraud), işletmeler için milyarlarca dolarlık kayıplara yol açan ciddi bir tehdittir. Geleneksel yöntemlerle dolandırıcılığı tespit etmek giderek zorlaşırken, gerçek zamanlı ve akıllı fraud sistemlerine olan ihtiyaç artmaktadır. Go dili, yüksek performansı, eşzamanlılık yetenekleri ve düşük gecikme süresi sayesinde bu tür kritik sistemlerin geliştirilmesi için ideal bir seçimdir. Bu makalede, Go kullanarak sıfırdan bir gerçek zamanlı fraud tespit sisteminin mimarisini, kural motorlarını ve makine öğrenimi entegrasyonunu detaylandıracağız.
 

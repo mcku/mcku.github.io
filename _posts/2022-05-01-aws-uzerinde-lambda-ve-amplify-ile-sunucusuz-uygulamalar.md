@@ -5,7 +5,6 @@ date: 2022-05-01 12:00:00 +0300
 categories: [AWS, Serverless, Lambda, Amplify, Cloud]
 ---
 
-# AWS Üzerinde Lambda ve Amplify ile Sunucusuz Uygulamalar
 
 Modern web ve mobil uygulama geliştirme, geleneksel sunucu yönetimi yükünden kurtulmayı ve daha hızlı, ölçeklenebilir ve maliyet etkin çözümler üretmeyi hedeflemektedir. Sunucusuz (serverless) mimariler, bu hedeflere ulaşmada kilit bir rol oynamaktadır. Amazon Web Services (AWS), Lambda ve Amplify gibi hizmetleriyle geliştiricilere güçlü bir sunucusuz uygulama geliştirme platformu sunar. Bu makalede, AWS Lambda ile sunucusuz fonksiyonlar oluşturmayı, AWS Amplify ile frontend ve backend entegrasyonunu ve bu yaklaşımın maliyet optimizasyonu avantajlarını detaylandıracağız.
 

@@ -5,7 +5,6 @@ date: 2020-07-01 12:00:00 +0300
 categories: [Go, Microservices, gRPC, Distributed Systems]
 ---
 
-# Go ile Mikroservis Mimarileri Tasarımı ve Uygulaması
 
 Mikroservis mimarileri, modern yazılım geliştirmenin temelini oluştururken, uygulamaları küçük, bağımsız ve birbiriyle iletişim kuran servisler halinde bölerek esneklik, ölçeklenebilirlik ve geliştirme hızını artırır. Bu mimarinin karmaşıklığını yönetmek için doğru araç ve dil seçimi kritik öneme sahiptir. Go dili, yüksek performansı, eşzamanlılık yetenekleri ve basitliği sayesinde mikroservis geliştirmede giderek daha popüler hale gelmektedir. Bu makalede, Go dilinin mikroservis geliştirmedeki avantajlarını, gRPC ile servisler arası iletişimi, konteynerizasyonu ve dağıtık sistem desenlerini detaylandıracağız.
 

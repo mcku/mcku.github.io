@@ -5,7 +5,6 @@ date: 2025-01-01 12:00:00 +0300
 categories: [Goa Framework, API Design, Go, Code Generation]
 ---
 
-# Goa Framework ve Avantajları: API Tasarımında Yeni Yaklaşımlar
 
 Modern yazılım mimarilerinde API'ler, farklı servisler ve uygulamalar arasındaki iletişimin temelini oluşturur. Özellikle mikroservis tabanlı sistemlerde, iyi tasarlanmış ve tutarlı API'ler geliştirme hızını ve sistemin sürdürülebilirliğini doğrudan etkiler. Go dilinde API geliştirmeyi kolaylaştıran ve standartlaştıran araçlardan biri de Goa framework'üdür. Bu makalede, Goa'nın API tasarımına getirdiği yenilikleri, Domain Specific Language (DSL) kullanımını ve otomatik kod üretimi avantajlarını detaylandıracağız.
 

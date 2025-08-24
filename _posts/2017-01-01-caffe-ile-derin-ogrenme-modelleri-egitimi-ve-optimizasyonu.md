@@ -5,7 +5,6 @@ date: 2017-01-01 12:00:00 +0300
 categories: [AI, Caffe, Deep Learning]
 ---
 
-# Caffe ile Derin Öğrenme Modelleri Eğitimi ve Optimizasyonu
 
 Derin öğrenme, yapay zeka alanında son yılların en çığır açıcı gelişmelerinden biridir ve özellikle görüntü işleme, doğal dil işleme ve konuşma tanıma gibi alanlarda insan benzeri performans sergilemektedir. Bu modellerin geliştirilmesi ve eğitilmesi, doğru araçların ve tekniklerin kullanılmasını gerektirir. Caffe (Convolutional Architecture for Fast Feature Embedding), Berkeley Vision and Learning Center (BVLC) tarafından geliştirilen, derin öğrenme modelleri için hızlı ve açık kaynaklı bir framework'tür. Özellikle Convolutional Neural Networks (CNN) ile görüntü işleme görevlerinde popülerdir. Bu makalede, Caffe'de derin öğrenme modelleri eğitimi için veri hazırlığı, ağ mimarisi seçimi, hiperparametre optimizasyonu ve performans değerlendirme tekniklerini detaylandıracağız.
 

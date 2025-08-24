@@ -5,7 +5,6 @@ date: 2016-05-01 12:00:00 +0300
 categories: [Scala, Play Framework, Web Development]
 ---
 
-# Scala ve Play Framework ile Modern Web Uygulamaları
 
 Modern web uygulamaları, yüksek performans, ölçeklenebilirlik, reaktiflik ve geliştirici verimliliği gibi özelliklere ihtiyaç duyar. Geleneksel web framework'leri bu gereksinimleri karşılamakta zorlanırken, Play Framework, Scala ve Java dilleri için bu zorlukların üstesinden gelmek üzere tasarlanmış güçlü bir çözümdür. Özellikle Scala'nın fonksiyonel programlama yetenekleri ve Play'in asenkron mimarisi bir araya geldiğinde, modern ve yüksek performanslı web uygulamaları geliştirmek mümkün hale gelir. Bu makalede, Play Framework'ün reaktif ve ölçeklenebilir web uygulamaları geliştirmedeki rolünü, Scala ile Play Framework'te RESTful API ve MVC yapısı oluşturmayı detaylandıracağız.
 

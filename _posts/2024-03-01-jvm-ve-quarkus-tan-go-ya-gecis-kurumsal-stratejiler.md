@@ -5,7 +5,6 @@ date: 2024-03-01 12:00:00 +0300
 categories: [JVM, Quarkus, Go, Microservices, Migration]
 ---
 
-# JVM ve Quarkus'tan Go'ya Geçiş: Kurumsal Stratejiler
 
 Kurumsal yazılım dünyasında Java Virtual Machine (JVM) ekosistemi, özellikle Spring Boot ve son zamanlarda Quarkus gibi framework'lerle uzun yıllardır dominant bir konumdadır. Ancak, bulut tabanlı mikroservis mimarilerinin yükselişi ve kaynak verimliliği ihtiyacı, Go gibi daha hafif ve performans odaklı dillerin popülaritesini artırmıştır. Bu makalede, JVM tabanlı (özellikle Quarkus kullanan) sistemlerden Go'ya geçişin iş ve teknik gerekçelerini, potansiyel zorlukları ve kurumsal geçiş stratejilerini detaylandıracağız.
 

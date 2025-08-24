@@ -5,7 +5,6 @@ date: 2019-03-01 12:00:00 +0300
 categories: [E-Farm, Agriculture Tech]
 ---
 
-# E-Farm Uygulamaları: Üretici-Tüketici Doğrudan Bağlantısı
 
 Geleneksel gıda tedarik zincirleri, üreticiler ve tüketiciler arasında çok sayıda aracı barındırarak hem maliyetleri artırmakta hem de ürünlerin tazeliğini ve izlenebilirliğini azaltmaktadır. Bu durum, üreticilerin kar marjlarını düşürürken, tüketicilerin de daha yüksek fiyatlarla ve bazen kalitesi düşük ürünlerle karşılaşmasına neden olmaktadır. E-farm uygulamaları, bu sorunlara çözüm olarak üreticileri doğrudan tüketicilerle buluşturan yenilikçi dijital platformlardır. Bu makalede, e-farm platformlarının mimarisini, doğrudan satış modellerini, lojistik entegrasyonlarını ve teknolojik altyapı gereksinimlerini detaylandıracağız.
 

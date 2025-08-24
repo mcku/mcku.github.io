@@ -5,7 +5,6 @@ date: 2017-05-01 12:00:00 +0300
 categories: [Play Framework, Real-time Applications, Web Development]
 ---
 
-# Play Framework ile Gerçek Zamanlı Uygulamalar
 
 Modern web uygulamaları, kullanıcılarla sürekli etkileşim halinde olan, anlık güncellemeler sunan ve yüksek performanslı bir deneyim sağlayan gerçek zamanlı özelliklere ihtiyaç duyar. Sohbet uygulamalarından canlı veri panolarına, çok oyunculu oyunlardan finansal ticaret platformlarına kadar birçok alanda gerçek zamanlı iletişim kritik öneme sahiptir. Play Framework, Scala ve Java dilleri için reaktif, ölçeklenebilir ve yüksek performanslı web uygulamaları geliştirmek üzere tasarlanmış bir framework'tür. Özellikle WebSocket desteği ve Akka aktör modeli ile entegrasyonu sayesinde gerçek zamanlı uygulamalar için güçlü bir temel sunar. Bu makalede, Play Framework'ün WebSocket desteğini, Akka entegrasyonunu ve gerçek zamanlı, etkileşimli web uygulamaları geliştirme stratejilerini detaylandıracağız.
 

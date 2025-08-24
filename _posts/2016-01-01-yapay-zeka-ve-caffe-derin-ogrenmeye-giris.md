@@ -5,7 +5,6 @@ date: 2016-01-01 12:00:00 +0300
 categories: [AI, Caffe, Deep Learning]
 ---
 
-# Yapay Zeka ve Caffe: Derin Öğrenmeye Giriş
 
 Yapay zeka (YZ), günümüz teknolojisinin en heyecan verici ve hızla gelişen alanlarından biridir. Özellikle derin öğrenme (Deep Learning) alt alanı, görüntü işleme, doğal dil işleme, konuşma tanıma ve otonom sistemler gibi birçok alanda insan benzeri veya insanüstü performans sergileyerek devrim niteliğinde ilerlemeler kaydetmiştir. Bu modellerin geliştirilmesi ve eğitilmesi için çeşitli kütüphaneler ve framework'ler mevcuttur. Caffe (Convolutional Architecture for Fast Feature Embedding), Berkeley Vision and Learning Center (BVLC) tarafından geliştirilen, derin öğrenme modelleri için hızlı ve açık kaynaklı bir framework'tür. Bu makalede, Caffe kütüphanesinin derin öğrenme projelerindeki rolünü, temel mimarisini ve Convolutional Neural Networks (CNN) ile görüntü işleme alanındaki uygulamalarını detaylandıracağız.
 

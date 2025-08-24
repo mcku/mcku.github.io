@@ -5,7 +5,6 @@ date: 2025-03-01 12:00:00 +0300
 categories: [Python, Django, GCP, E-Farm, Cloud]
 ---
 
-# Python ve Django ile GCP Üzerinde Ölçeklenebilir Bir E-Farm Sistemi Oluşturma
 
 Günümüz dijital çağında, tarım sektörünün de teknolojiyle entegrasyonu kaçınılmaz hale gelmiştir. E-farm sistemleri, üreticileri doğrudan tüketicilerle buluşturarak tedarik zincirini kısaltmak, maliyetleri düşürmek ve ürünlerin tazeliğini artırmak gibi önemli avantajlar sunar. Bu makalede, Python ve Django framework'ünü kullanarak Google Cloud Platform (GCP) üzerinde nasıl ölçeklenebilir ve güvenilir bir e-farm sistemi oluşturulabileceğini detaylandıracağız.
 

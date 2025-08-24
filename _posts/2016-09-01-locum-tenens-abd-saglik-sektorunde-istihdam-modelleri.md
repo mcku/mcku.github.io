@@ -5,7 +5,6 @@ date: 2016-09-01 12:00:00 +0300
 categories: [Health Tech, Employment]
 ---
 
-# Locum Tenens: ABD Sağlık Sektöründe İstihdam Modelleri
 
 ABD sağlık sektörü, sürekli değişen hasta ihtiyaçları, doktor kıtlığı ve coğrafi dağılım eşitsizlikleri gibi birçok zorlukla karşı karşıyadır. Bu zorlukların üstesinden gelmek ve sağlık hizmetlerinin kesintisiz devamlılığını sağlamak için "locum tenens" adı verilen geçici doktorluk modeli giderek daha fazla önem kazanmaktadır. Latince "yerine geçen" anlamına gelen locum tenens, doktorların ve diğer sağlık profesyonellerinin kısa veya uzun vadeli geçici görevlerde çalışmasını ifade eder. Bu makalede, ABD sağlık sektöründe locum tenens modelinin işleyişini, avantajlarını ve teknolojik platformların bu alandaki rolünü detaylandıracağız.
 

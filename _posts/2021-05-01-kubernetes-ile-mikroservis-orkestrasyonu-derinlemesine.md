@@ -5,7 +5,6 @@ date: 2021-05-01 12:00:00 +0300
 categories: [Kubernetes, Microservices, Orchestration, DevOps]
 ---
 
-# Kubernetes ile Mikroservis Orkestrasyonu Derinlemesine
 
 Mikroservis mimarileri, modern yazılım geliştirmenin temel taşlarından biri haline gelmiştir. Uygulamaları küçük, bağımsız ve birbiriyle iletişim kuran servisler halinde bölmek, geliştirme hızını, esnektiği ve ölçeklenebilirliği artırır. Ancak, yüzlerce veya binlerce mikroservisi yönetmek, dağıtmak ve ölçeklendirmek karmaşık bir operasyonel zorluktur. İşte bu noktada Kubernetes devreye girer. Kubernetes, konteynerize edilmiş iş yüklerini ve servisleri otomatikleştirmek, dağıtmak, ölçeklendirmek ve yönetmek için açık kaynaklı bir platformdur. Bu makalede, Kubernetes'in temel bileşenlerini, dağıtım stratejilerini, servis keşfini, yük dengelemeyi ve otomatik ölçeklendirme mekanizmalarını derinlemesine inceleyeceğiz.
 

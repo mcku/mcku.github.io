@@ -5,7 +5,6 @@ date: 2021-01-01 12:00:00 +0300
 categories: [Kubernetes, DevOps, HashiCorp, Migration]
 ---
 
-# Nomad, Consul, Vault Yapılarından Kubernetes'e Geçiş: Mimari Nedenler ve Stratejiler
 
 Modern bulut tabanlı ve mikroservis odaklı mimarilerde, uygulama dağıtımı, yönetimi, servis keşfi ve sır yönetimi gibi konular kritik öneme sahiptir. HashiCorp'un Nomad, Consul ve Vault gibi araçları, bu alanlarda güçlü ve esnek çözümler sunarak uzun yıllar boyunca birçok şirketin tercih ettiği bir yığın olmuştur. Ancak, konteyner orkestrasyonunda Kubernetes'in endüstri standardı haline gelmesiyle birlikte, birçok kurum HashiCorp yığınından Kubernetes'e geçişi değerlendirmeye başlamıştır. Bu makalede, Nomad, Consul ve Vault yapılarından Kubernetes'e geçişin mimari nedenlerini, geçiş stratejilerini ve bu süreçte karşılaşılabilecek zorlukları detaylandıracağız.
 

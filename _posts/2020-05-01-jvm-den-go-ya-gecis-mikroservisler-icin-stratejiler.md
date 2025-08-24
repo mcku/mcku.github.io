@@ -5,7 +5,6 @@ date: 2020-05-01 12:00:00 +0300
 categories: [JVM, Go, Microservices, Migration]
 ---
 
-# JVM'den Go'ya Geçiş: Mikroservisler İçin Stratejiler
 
 Kurumsal yazılım dünyasında Java Virtual Machine (JVM) ekosistemi, özellikle Java ve Scala gibi dillerle uzun yıllardır mikroservis geliştirmenin temelini oluşturmuştur. Geniş kütüphane desteği, olgun araçları ve güçlü topluluk desteğiyle JVM, büyük ölçekli uygulamalar için güvenilir bir platform olmuştur. Ancak, bulut tabanlı ve konteynerize edilmiş mikroservis mimarilerinin yükselişiyle birlikte, Go gibi daha hafif, performans odaklı ve bulut yerel dillerin popülaritesi artmıştır. Bu makalede, Java/Scala gibi JVM tabanlı dillerden Go'ya geçişin nedenlerini, performans karşılaştırmalarını ve mikroservisler için etkili geçiş stratejilerini detaylandıracağız.
 

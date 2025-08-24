@@ -5,7 +5,6 @@ date: 2016-03-01 12:00:00 +0300
 categories: [Scala, Functional Programming]
 ---
 
-# Scala Öğrenmenin Avantajları ve Fonksiyonel Programlama
 
 Modern yazılım geliştirme dünyasında, geliştiricilerin karşılaştığı zorluklar giderek artmaktadır: büyük veri işleme, dağıtık sistemler, eşzamanlılık ve ölçeklenebilirlik. Bu zorlukların üstesinden gelmek için güçlü, esnek ve ifade gücü yüksek programlama dillerine ihtiyaç duyulmaktadır. Scala, hem nesne yönelimli (Object-Oriented) hem de fonksiyonel programlama (Functional Programming) paradigmalarını bir araya getiren hibrit bir dil olarak, bu ihtiyaçları karşılamak için benzersiz avantajlar sunar. Bu makalede, Scala öğrenmenin avantajlarını, fonksiyonel programlama paradigmalarıyla nasıl daha temiz ve ölçeklenebilir kod yazıldığını ve büyük veri ile dağıtık sistemlerdeki yerini detaylandıracağız.
 

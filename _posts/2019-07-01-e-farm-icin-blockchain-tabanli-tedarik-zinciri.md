@@ -5,7 +5,6 @@ date: 2019-07-01 12:00:00 +0300
 categories: [E-Farm, Blockchain, Supply Chain, Food Security]
 ---
 
-# E-Farm İçin Blockchain Tabanlı Tedarik Zinciri: Şeffaflık ve Gıda Güvenliği
 
 Gıda tedarik zincirleri, karmaşık yapıları, çok sayıda aracıyı ve bilgi asimetrisini içeren geleneksel modelleri nedeniyle şeffaflık, izlenebilirlik ve gıda güvenliği konularında önemli zorluklarla karşılaşmaktadır. Tüketiciler, yedikleri gıdanın nereden geldiğini, nasıl üretildiğini ve hangi aşamalardan geçtiğini giderek daha fazla merak etmektedir. E-farm platformları, üreticileri tüketicilerle doğrudan buluşturarak bu sorunlara kısmi çözümler sunsa da, tam şeffaflık ve güven için daha güçlü bir teknolojiye ihtiyaç duyulmaktadır: Blockchain. Bu makalede, e-farm platformlarında şeffaflık ve izlenebilirlik için blockchain teknolojisinin kullanımını, akıllı sözleşmelerin rolünü ve gıda güvenliğine olan katkılarını detaylandıracağız.
 

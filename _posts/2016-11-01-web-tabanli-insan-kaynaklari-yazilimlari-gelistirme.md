@@ -5,7 +5,6 @@ date: 2016-11-01 12:00:00 +0300
 categories: [HR Tech, Web Applications]
 ---
 
-# Web Tabanlı İnsan Kaynakları Yazılımları Geliştirme
 
 İnsan kaynakları (İK) yönetimi, bir şirketin başarısı için kritik öneme sahip karmaşık ve çok yönlü bir süreçtir. Geleneksel manuel İK süreçleri, zaman alıcı, hataya açık ve verimsiz olabilirken, web tabanlı İnsan Kaynakları Yönetim Sistemleri (İKYS) bu süreçleri dijitalleştirerek ve otomatikleştirerek şirketlere önemli avantajlar sunar. Bu makalede, insan kaynakları yönetiminde web tabanlı çözümlerin önemini, temel modüllerini (bordro, performans, işe alım) ve modern geliştirme yaklaşımlarını detaylandıracağız.
 

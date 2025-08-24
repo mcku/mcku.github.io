@@ -5,7 +5,6 @@ date: 2022-01-01 12:00:00 +0300
 categories: [Flutter, Health Tech, Mobile Development, UI/UX]
 ---
 
-# Flutter ile Medikal Arayüz Yapımı: Sağlık Uygulamaları
 
 Sağlık sektörü, dijitalleşme ve mobil teknolojilerin entegrasyonuyla büyük bir dönüşüm yaşamaktadır. Hasta takip sistemlerinden, tele-tıp uygulamalarına, medikal cihaz entegrasyonlarından kişisel sağlık asistanlarına kadar birçok alanda mobil uygulamalar kritik bir rol oynamaktadır. Bu tür uygulamaların geliştirilmesinde, kullanıcı deneyimi (UX), arayüz tasarımı (UI), veri güvenliği ve çapraz platform uyumluluğu büyük önem taşır. Google tarafından geliştirilen Flutter framework'ü, bu gereksinimleri karşılayarak medikal uygulamalar için güçlü bir çözüm sunar. Bu makalede, Flutter ile çapraz platform medikal uygulamaların geliştirilmesini, UI/UX prensiplerini ve veri entegrasyonlarını detaylandıracağız.
 

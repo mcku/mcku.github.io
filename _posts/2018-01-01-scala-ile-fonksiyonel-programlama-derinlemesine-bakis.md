@@ -5,7 +5,6 @@ date: 2018-01-01 12:00:00 +0300
 categories: [Scala, Functional Programming]
 ---
 
-# Scala ile Fonksiyonel Programlama: Derinlemesine Bakış
 
 Modern yazılım geliştirme, karmaşık sistemlerin güvenilir, ölçeklenebilir ve bakımı kolay bir şekilde inşa edilmesini gerektirir. Bu hedeflere ulaşmada fonksiyonel programlama (FP) paradigması, özellikle yan etkisiz kod yazımı ve veri immutability (değişmezlik) prensipleriyle güçlü bir çözüm sunar. Scala, hem nesne yönelimli (OO) hem de fonksiyonel programlama paradigmalarını bir araya getiren hibrit bir dil olarak, geliştiricilere her iki dünyanın da en iyi yönlerini kullanma imkanı sunar. Bu makalede, Scala'da fonksiyonel programlama prensiplerini, immutability, higher-order functions, monadlar gibi temel kavramları ve yan etkisiz kod yazımının avantajlarını derinlemesine inceleyeceğiz.
 

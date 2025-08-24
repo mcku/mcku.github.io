@@ -1,3 +1,8 @@
+---
+layout: post
+title: "İnsan Kaynakları Yazılımlarında Yapay Zeka Entegrasyonu"
+categories: [AI, İnsan Kaynakları]
+---
 # İnsan Kaynakları Yazılımlarında Yapay Zeka Entegrasyonu
 
 İnsan Kaynakları Yönetim Sistemleri (İKYS), şirketlerin en değerli varlığı olan insan sermayesini yönetmek için kritik öneme sahiptir. Geleneksel İK süreçleri (işe alım, performans yönetimi, eğitim, bordro) genellikle manuel ve zaman alıcı olabilirken, yapay zeka (YZ) teknolojilerinin İKYS'ye entegrasyonu bu süreçleri daha verimli, objektif ve stratejik hale getirmektedir. Bu makalede, İKYS'de yapay zeka destekli işe alım, yetenek yönetimi ve çalışan analitiği gibi uygulamaların geliştirilmesini ve bu entegrasyonun şirketlere sağladığı faydaları detaylandıracağız.
