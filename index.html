@@ -60,67 +60,17 @@
   <h1 class="page-heading">Gönderiler</h1>
 
   <ul class="post-list">
-    
+    {% for post in site.posts %}
       <li>
-        <span class="post-meta">10&nbsp;Kasım&nbsp;2015</span>
+        <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
         <h2>
-          <a class="post-link" href="/yazilim/2015/11/10/kurumlarda-bilgisayarli-gorme-uygulamalari.html">Kurumlarda bilgisayarlı görme uygulamaları</a>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        <p class="post-excerpt"> <p>Bilgisayarlı görme, gündelik hayatımızın bir parçası haline geldiğinde adı belki değişir, ama şimdilik ‘bilgisayar’ kelimesiyle birlikte anılmakta. Bilgisayarların son otuz yıldır hayatımıza ne kadar da çeşitli yenilik getirdiğini hatırlarsak, bilgisayarlı görmenin getireceği değerleri anlayabiliriz. Üstelik günümüzde, neredeyse herkesin cebinde kameralı, android (linux) veya ios (bsd) bilgisayarlar taşınmakta. Bu öyle bir esneklik getiriyor ki, bilgisayarlı görme kavramı artık tablete kadar inebilir.</p>
-
- </p>
+        {% if site.show_excerpts %}
+          {{ post.excerpt }}
+        {% endif %}
       </li>
-    
-      <li>
-        <span class="post-meta">1&nbsp;Kasım&nbsp;2015</span>
-        <h2>
-          <a class="post-link" href="/yazilim/2015/11/01/sirketinizdeki-tum-belgeleri-aninda-bulun.html">Şirketiniz/kuruluşunuzdaki tüm belgeleri anında bulun</a>
-        </h2>
-        <p class="post-excerpt"> <p>Tipik bir firmanın kurumsal hafızasını kısaca özetlersek, çalışanlar, organizasyon ve pazarlama dokümanları, kullanılan CRM, ERP sistemlerindeki veriler ve bunların değerlendirildiği raporlardır. Günümüzde ise bunların yanına, henüz dokümanlaşamadan akıp giden akan veriler, sosyal medya, hukuki içerikler, kurumsal yazışmalar gibi birçok boyut eklenmekte. Öte yandan yasal düzenlemeler sürekli değişirken yeni gereksinimler ortaya konmakta. Teknolojik gelişmeler ve verinin işlendiği ortamlar ise büyük veri olarak adlandırdığımız geniş kapsamlı, hızlı veri işleme yaklaşımını yapay zeka ile birleştirerek işletmelerin daha akıllı hareket etmesini mümkün kılıyor.</p>
-
- </p>
-      </li>
-    
-      <li>
-        <span class="post-meta">17&nbsp;Eylül&nbsp;2015</span>
-        <h2>
-          <a class="post-link" href="/elasticsearch/bigdata/2015/09/17/elastic-ile-hizli-baslangic.html">Elasticsearch'e hızlı başlangıç</a>
-        </h2>
-        <p class="post-excerpt"> <p>Geçen yazımızda, Elastic’e hızlı bir giriş yapmış, daha doğrusu kısa bir özet sunmuştuk. Şimdi ise, yavaş yavaş bir şeyler yapmaya başlayalım istiyorum. Bunun için, en çok ilgimi çeken bazı Elasticsearch pluginlerini incelemeye ne dersiniz?</p>
-
- </p>
-      </li>
-    
-      <li>
-        <span class="post-meta">10&nbsp;Eylül&nbsp;2015</span>
-        <h2>
-          <a class="post-link" href="/elasticsearch/bigdata/2015/09/10/elasticsearch-kosesi.html">Elasticsearch köşesi</a>
-        </h2>
-        <p class="post-excerpt"> <p>Bugünlerde, yıllardır beklediğimiz dönüşümün sinyallerini almaya başladık. Birçok kurum, bulutta yaşanan dönüşümün benzerini big data’da yapmaya hazırlanıyor. Böylece inanılmaz bir kapasite artışı gerçekleşecek.</p>
-
- </p>
-      </li>
-    
-      <li>
-        <span class="post-meta">25&nbsp;Ağustos&nbsp;2015</span>
-        <h2>
-          <a class="post-link" href="/mendix/2015/08/25/mendix-ile-yazilim-modellemesi-nasil-yapilir.html">Mendix ile yazılım modellemesi nasıl yapılır</a>
-        </h2>
-        <p class="post-excerpt"> <p><a href="http://www.mendix.com">Mendix</a>, 2005 yılından beri varlığını sürdüren bir uygulama geliştirme platformudur. Teknolojinin gelişmesiyle birlikte, hem backend, hem de frontend geliştirme süreçlerini tek ortamda birleştirmeyi başarmış bir platformdur. Son birkaç yıldır Gartner ve Forrester analizlerinde kendine iyi bir yer edinmiştir. Hem prototip geliştirme, hem de test ve production için uygundur. En önemli avantajı, <a href="http://www.slideshare.net/MattHaney/qsm-mendix-benchmark-report">QSM</a> tarafından da ölçülmüş olan, ürün geliştirme sürecini hızlandırmasıdır.</p>
-
- </p>
-      </li>
-    
-      <li>
-        <span class="post-meta">15&nbsp;Haziran&nbsp;2015</span>
-        <h2>
-          <a class="post-link" href="/yazilim/2015/06/15/hizli-uygulama-gelistirme.html">Hızlı uygulama geliştirme</a>
-        </h2>
-        <p class="post-excerpt"> <p>Yazılım geliştirmek yerine yazılım modellemek. Büyük kurumlar dev yazılım projeleri yerine modelleme yapacak.</p>
-
- </p>
-      </li>
-    
+    {% endfor %}
   </ul>
 
   <p class="rss-subscribe">RSS ile  <a href="/feed.xml">abone ol</a></p>
